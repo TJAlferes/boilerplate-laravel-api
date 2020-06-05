@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "boilerplate-laravel-api",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Boilerplate for Vue and Laravel",
     "keywords": [
         "framework",
         "laravel"
